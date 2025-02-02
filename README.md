@@ -46,10 +46,10 @@
 
 If you encounter any issues or would like to contribute to the project, feel free to:
 
--   Report any [issues](https://github.com/raflizocky/laravel-sbadmin2/issues)
--   Submit a [pull request](https://github.com/raflizocky/laravel-sbadmin2/pulls)
--   Participate in [discussions](https://github.com/raflizocky/laravel-sbadmin2/discussions) for any questions, feedback, or suggestions
+-   Report any [issues](https://github.com/raflizocky/laravel11-sbadmin2/issues)
+-   Submit a [pull request](https://github.com/raflizocky/laravel11-sbadmin2/pulls)
+-   Participate in [discussions](https://github.com/raflizocky/laravel11-sbadmin2/discussions) for any questions, feedback, or suggestions
 
 ## License
 
-Code released under the [MIT License](https://github.com/raflizocky/laravel-sbadmin2/blob/main/LICENSE).
+Code released under the [MIT License](https://github.com/raflizocky/laravel11-sbadmin2/blob/main/LICENSE).
